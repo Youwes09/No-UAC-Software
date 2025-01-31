@@ -11,6 +11,7 @@ Current System List:
 - Java
 - CMake
 - QT
+- Git
 
 Uninstallables (Software that CANNOT be installed without UAC):
 - Visual Studio Community (Edits Registry)
